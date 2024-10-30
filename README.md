@@ -3,7 +3,7 @@
 This dataset contains comprehensive details about various restaurants listed on Zomato, with a primary focus on analyzing restaurant ratings.
 
 **Understanding Supervised Learning**
-Supervised learning involves predicting an outcome based on labeled data. Initially, I considered this dataset for supervised learning applications, particularly for analyzing restaurant ratings.
+Supervised learning involves predicting an outcome based on labeled data. Initially, I considered this dataset for supervised learning (Classification) applications, particularly for analyzing restaurant ratings. 
 
 **Dataset Description**
 • Restaurant Id: Unique id of every restaurant across various cities of the world
